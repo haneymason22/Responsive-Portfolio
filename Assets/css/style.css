@@ -239,11 +239,13 @@ body {
           float: none;
           width: 100%;
           padding: 30px;
+          text-align: center;
       }
 
       nav {
         float: none;
         width: 100%;
+        text-align: center;
       }
 
       .auth-image {
