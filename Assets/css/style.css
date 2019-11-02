@@ -175,6 +175,16 @@ body {
     margin-top: 10px;
     margin-right: 25px;
   }
+
+  #psych {
+    height: 250px;
+    width: 274px;
+  }
+
+  #crystal {
+    height: 250px;
+    width: 274px;
+  }
   
   /* contact page */
   
